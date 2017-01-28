@@ -13,5 +13,8 @@ The following articles are great asides in addition to Jests documentation https
 - https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.wfsfrlcn0
 - https://www.codementor.io/vijayst/unit-testing-react-components-jest-or-enzyme-du1087lh8
 
+# Repositories of Note
+react-native-testing
+
 # Things TODO
 - Implement  our unique prototype of Jest testing for reference purposes for when we later write legitimate project tests.
