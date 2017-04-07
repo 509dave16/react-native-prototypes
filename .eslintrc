@@ -1,0 +1,14 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "no-param-reassign": 0,
+    "array-callback-return": 0,
+    "prefer-const": 0,
+    "dot-notation": 0,
+    "max-len": 0,
+    "no-mixed-operators": 0,
+    "react/sort-comp": 0,
+    "arrow-body-style": 0,
+    "import/no-unresolved": 0
+  }
+}
